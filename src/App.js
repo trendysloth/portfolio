@@ -1,8 +1,6 @@
 import React from "react";
 import ReactDOM from 'react-dom/client';
 import Container from 'react-bootstrap/Container';
-// import  "./App.css";
-import About from "./About";
 
 export default function App() {
 	return (
@@ -12,7 +10,6 @@ export default function App() {
 					<h1 className="header">
 					Hello
 					</h1>
-					<About />
 				</Container>
 			</Container>
 		</main>
