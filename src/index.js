@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from 'react-dom/client';
-import Container from 'react-bootstrap/Container';
 import App from "./App"
 import "./assets/css/main.css"
 
