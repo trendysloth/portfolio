@@ -3440,6 +3440,18 @@ input, select, textarea {
 			width: 4.5em;
 		}
 
+	#intro .logo2 img{
+		border-bottom: 0;
+		display: inline-block;
+		margin: 0 0 1em 0;
+		overflow: hidden;
+		position: relative;
+		width: 10em;
+		border-radius: 100%;
+		display: block;
+
+	}
+
 	#intro header h2 {
 		font-size: 2em;
 		font-weight: 900;

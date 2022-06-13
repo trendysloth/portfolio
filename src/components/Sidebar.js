@@ -6,7 +6,7 @@ function Sidebar(){
 			<section id="sidebar">
 
 					<section id="intro">
-						<a href="#" class="logo"><img src="images/logo.jpg" alt="" /></a>
+						<a href="#" class="logo2"><img src="images/deirdre.jpg" alt="" /></a>
 						<header>
 							<h2>Future Imperfect</h2>
 							<p>Another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
