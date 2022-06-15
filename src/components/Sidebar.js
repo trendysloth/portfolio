@@ -1,4 +1,9 @@
 import React from "react";
+import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
+import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 
 function Sidebar(){
 	return (
@@ -8,27 +13,28 @@ function Sidebar(){
 					<section id="intro">
 						<a href="#" class="logo2"><img src="images/deirdre.jpg" alt="" /></a>
 						<header>
-							<h2>Future Imperfect</h2>
-							<p>Another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+							<h2>Deirdre Quillen</h2>
+							<p>dequillen at gmail.com</p>
 						</header>
 					</section>
 
 						<section class="blurb">
 							<h2>About</h2>
-							<p>Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod amet placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at phasellus sed ultricies.</p>
-							<ul class="actions">
-								<li><a href="#" class="button">Learn More</a></li>
-							</ul>
+							<p> 
+							I've been doing machine learning engineering and research at Berkeley and
+							Google Brain. Looking for some work!
+							</p>
+
 						</section>
 
 						<section id="footer">
 							<ul class="icons">
-								<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-								<li><a href="#" class="icon solid fa-rss"><span class="label">RSS</span></a></li>
-								<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+								<li><a href="https://www.linkedin.com/in/deirdre-quillen-5ba111a1/"> <FontAwesomeIcon icon={faLinkedinIn} size="2x"/> </a></li>
+								{/*<li><a href="#"> <FontAwesomeIcon icon={faGithub} size="2x"/> </a></li>*/}
+
+
 							</ul>
+				
 							<p class="copyright">&copy; Untitled. Design: <a href="http://html5up.net">HTML5 UP</a>. Images: <a href="http://unsplash.com">Unsplash</a>.</p>
 						</section>
 
