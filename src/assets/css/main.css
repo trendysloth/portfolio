@@ -3330,10 +3330,10 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		-moz-flex-direction: row-reverse;
-		-webkit-flex-direction: row-reverse;
-		-ms-flex-direction: row-reverse;
-		flex-direction: row-reverse;
+		-moz-flex-direction: row;
+		-webkit-flex-direction: row;
+		-ms-flex-direction: row;
+		flex-direction: row;
 		-moz-transition: opacity 0.5s ease;
 		-webkit-transition: opacity 0.5s ease;
 		-ms-transition: opacity 0.5s ease;
@@ -3386,6 +3386,8 @@ input, select, textarea {
 		flex-grow: 1;
 		-ms-flex: 1;
 		width: 100%;
+/*		position: relative;
+		left: 25em;*/
 	}
 
 /* Sidebar */
@@ -3394,6 +3396,8 @@ input, select, textarea {
 		margin-right: 3em;
 		min-width: 22em;
 		width: 22em;
+/*		position: relative;
+		left: -60em;*/
 	}
 
 		#sidebar > * {

@@ -7,8 +7,8 @@ export default function App() {
 	return (
 		<div id="wrapper">
 			<Navigation />
-			<Projects/>
 			<Sidebar/>
+			<Projects/>
 		</div>
 	)
 }

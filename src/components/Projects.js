@@ -49,8 +49,8 @@ function Projects(){
 				<section id="footer">
 					<p> This site was built with React and deployed with Firebase. <a href="#"> Source.</a> </p>
 					<ul class="icons">
-						<img src="images/logo.b1e07bbe.svg" height="50px"/>
-						<img src="images/Firebase_logo.svg" height="50px"/>
+						<img src="images/reactlogo.svg" height="50px"/>
+						<img src="images/firebaselogo.svg" height="50px"/>
 					</ul>
 				</section>
 		</div>
