@@ -22,7 +22,7 @@ function Sidebar(){
 							<h2>About</h2>
 							<p> 
 							I've been doing machine learning engineering and research at Berkeley and
-							Google Brain. Looking for some work!
+							Google Brain. Looking for work as a machine learning engineer.
 							</p>
 
 						</section>
@@ -30,7 +30,7 @@ function Sidebar(){
 						<section id="footer">
 							<ul class="icons">
 								<li><a href="https://www.linkedin.com/in/deirdre-quillen-5ba111a1/"> <FontAwesomeIcon icon={faLinkedinIn} size="2x"/> </a></li>
-								{/*<li><a href="#"> <FontAwesomeIcon icon={faGithub} size="2x"/> </a></li>*/}
+								<li><a href="https://github.com/dequillen"> <FontAwesomeIcon icon={faGithub} size="2x"/> </a></li>
 
 
 							</ul>

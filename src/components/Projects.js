@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "./Footer"
 
 function Projects(){
 	return (
@@ -41,18 +42,12 @@ function Projects(){
     									
   										</div>
 									</article>
-
+								<Footer />
 
 								</div>
 							</section>
 				</article>
-				<section id="footer">
-					<p> This site was built with React and deployed with Firebase. <a href="#"> Source.</a> </p>
-					<ul class="icons">
-						<img src="images/reactlogo.svg" height="50px"/>
-						<img src="images/firebaselogo.svg" height="50px"/>
-					</ul>
-				</section>
+
 		</div>
 	)
 }
