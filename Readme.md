@@ -2,7 +2,7 @@
 
 Clone repo:
 ```
-git clone https://github.com/dequillen/portfolio.git
+git clone https://github.com/trendysloth/portfolio.git
 ```
 
 Install dependences:
