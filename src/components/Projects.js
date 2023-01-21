@@ -7,49 +7,40 @@ function Projects(){
 				<article class="post">
 					<header>
 						<div class="title">
-							<h2>Some things I've done</h2>
-							{/*<p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p>*/}
+							<h2>Some projects I've done</h2>
 						</div>
-
 					</header>
-							<section>
-								<div class="mini-posts">
+					<section>
+						<div class="mini-posts">
+							<article class="mini-post">
+								<header>
+									<h3>Restaurant Recommendations</h3>
+									<time> 
+										A restaurant recommendation system built using publicly available Yelp data.
+									</time>
+								</header>
+								<a href="https://trendysloth.github.io/yelp-restaurant-recommender/" class="image"><img src="images/recommendations.png" alt="" /></a>
+							</article>
 
-									<article class="mini-post">
-										<header>
-											<h3>Multitask reinforcement learning algorithms</h3>
-											<time> 
-											Built a benchmark for applying reinforcement learning
-											algorithms to many different robotic tasks. We also designed 
-											new reinforcement algorithms to work across multiple tasks.
-											</time>
-										</header>
-										<a href="https://meta-world.github.io/" class="image"><img src="images/metaworld.jpg" alt="" /></a>
-									</article>
-
-									<article class="mini-post">
-										<header>
-											<h3>Machine learning for robot grasping</h3>
-											<figcaption> 
-												Developed reinforcement learning algorithms at Google for grasping.
-
-											</figcaption>
-										</header>
-										<a href="https://ai.googleblog.com/2016/03/deep-learning-for-robots-learning-from.html" class="image">
-										<img src="images/robots.jpg" alt="" />
-										</a>
-										<div className="description">
-    									
-  										</div>
-									</article>
-								<Footer />
-
+							<article class="mini-post">
+								<header>
+									<h3>Unfinished Farewell</h3>
+									<time>
+										COVID-19 tribute mural built using React and Javascript
+									</time>
+								</header>
+								<a href="https://www.farewell.care/?lang=en" class="image">
+									<img src="images/unfinishedfarewell.png" alt="" />
+								</a>
+								<div className="description">
 								</div>
-							</section>
+							</article>
+						<Footer />
+						</div>
+					</section>
 				</article>
 
 		</div>
 	)
 }
-
 export default Projects;

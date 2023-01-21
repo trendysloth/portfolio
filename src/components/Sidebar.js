@@ -11,30 +11,28 @@ function Sidebar(){
 			<section id="sidebar">
 
 					<section id="intro">
-						<a href="#" class="logo2"><img src="images/deirdre.jpg" alt="" /></a>
+						{/* <a href="#" class="logo2"><img src="images/deirdre.jpg" alt="" /></a> */}
 						<header>
-							<h2>Deirdre Quillen</h2>
-							<p>dequillen at gmail.com</p>
+							<h2>Kally Wu</h2>
+							<p>kallywywu at gmail.com</p>
 						</header>
 					</section>
 
 						<section class="blurb">
 							<h2>About</h2>
 							<p> 
-							I've been doing machine learning engineering and research at Berkeley and
-							Google Brain. Looking for work as a machine learning engineer.
+								I'm a full-stack software engineer with major interests in machine learning and interdisciplinary work.
 							</p>
-
 						</section>
 
 						<section id="footer">
 							<ul class="icons">
-								<li><a href="https://www.linkedin.com/in/deirdre-quillen-5ba111a1/"> <FontAwesomeIcon icon={faLinkedinIn} size="2x"/> </a></li>
-								<li><a href="https://github.com/dequillen"> <FontAwesomeIcon icon={faGithub} size="2x"/> </a></li>
-
-
+								<li>
+									<a href="https://www.linkedin.com/in/kallywu/"> 
+										<FontAwesomeIcon icon={faLinkedinIn} size="2x"/> 
+									</a>
+								</li>
 							</ul>
-				
 							<p class="copyright">&copy; Untitled. Design: <a href="http://html5up.net">HTML5 UP</a>. Images: <a href="http://unsplash.com">Unsplash</a>.</p>
 						</section>
 
