@@ -44,7 +44,7 @@ function Projects(){
 									</time>
 								</header>
 								<a href="https://player.vimeo.com/video/210814647" class="image">
-									<img src="images/beach.gif" alt="" />
+									<img src="images/beach.jpeg" alt="" />
 								</a>
 								<div className="description">
 								</div>
