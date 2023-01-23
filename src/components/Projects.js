@@ -35,6 +35,20 @@ function Projects(){
 								<div className="description">
 								</div>
 							</article>
+
+							<article class="mini-post">
+								<header>
+									<h3>Beach</h3>
+									<time>
+										Virtual Reality application visualizing climate change
+									</time>
+								</header>
+								<a href="https://player.vimeo.com/video/210814647" class="image">
+									<img src="images/beach.gif" alt="" />
+								</a>
+								<div className="description">
+								</div>
+							</article>
 						<Footer />
 						</div>
 					</section>
