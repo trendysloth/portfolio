@@ -14,7 +14,8 @@ function Sidebar(){
 						{/* <a href="#" class="logo2"><img src="images/deirdre.jpg" alt="" /></a> */}
 						<header>
 							<h2>Kally Wu</h2>
-							<p>kallywywu at gmail.com</p>
+							<p>kallywywu at gmail dot com</p>
+							<p>technologist | designer</p>
 						</header>
 					</section>
 
