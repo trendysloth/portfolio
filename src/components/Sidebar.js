@@ -15,12 +15,13 @@ function Sidebar(){
 						<header>
 							<h2>Kally Wu</h2>
 							<p>kallywywu at gmail dot com</p>
-							<p>technologist | designer</p>
+							
 						</header>
 					</section>
 
 						<section class="blurb">
 							<h2>About</h2>
+							<p>technology | design</p>
 							<p> 
 								I'm a full-stack software engineer with major interests in machine learning and interdisciplinary work.
 							</p>
