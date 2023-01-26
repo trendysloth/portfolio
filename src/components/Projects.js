@@ -16,7 +16,8 @@ function Projects(){
 								<header>
 									<h3>Unfinished Farewell</h3>
 									<time>
-										COVID-19 tribute mural built using React and Javascript. Featured in ACM SIGGRAPH and 
+										COVID-19 tribute mural built using React and Javascript. Featured in 
+										<a href="https://dl.acm.org/doi/abs/10.1145/3450623.3464646">ACM SIGGRAPH</a> and 
 										<a href="https://competition.adesignaward.com/design.php?ID=122354"> A’ Design Award </a>
 									</time>
 								</header>
@@ -26,17 +27,6 @@ function Projects(){
 								<div className="description">
 								</div>
 							</article>
-
-							<article class="mini-post">
-								<header>
-									<h3>Restaurant Recommendations</h3>
-									<time> 
-										A restaurant recommendation system built using publicly available Yelp data.
-									</time>
-								</header>
-								<a href="https://trendysloth.github.io/yelp-restaurant-recommender/" class="image"><img src="images/recommendations.png" alt="" /></a>
-							</article>
-
 							<article class="mini-post">
 								<header>
 									<h3>Beach</h3>
@@ -49,6 +39,24 @@ function Projects(){
 								</a>
 								<div className="description">
 								</div>
+							</article>
+							<article class="mini-post">
+								<header>
+									<h3>Restaurant Recommendations</h3>
+									<time> 
+										A restaurant recommendation system built using publicly available Yelp data.
+									</time>
+								</header>
+								<a href="https://trendysloth.github.io/yelp-restaurant-recommender/" class="image"><img src="images/recommendations.png" alt="" /></a>
+							</article>
+							<article class="mini-post">
+								<header>
+									<h3>Imrobs Adventure</h3>
+									<time> 
+										Hades Style solo-protagonist game with top-down 3d view.
+									</time>
+								</header>
+								<a href="https://www.youtube.com/watch?v=aNfENAoxpvI" class="image"><img src="images/ImrobsAdventure.png" alt="" /></a>
 							</article>
 
 							{/* <article class="mini-post">

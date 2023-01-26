@@ -21,7 +21,6 @@ function Sidebar(){
 
 						<section class="blurb">
 							<h2>About</h2>
-							<p>technology | design</p>
 							<p> 
 								I'm a full-stack software engineer with major interests in machine learning and interdisciplinary work.
 							</p>
