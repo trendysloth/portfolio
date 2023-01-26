@@ -17,7 +17,7 @@ function Projects(){
 									<h3>Unfinished Farewell</h3>
 									<time>
 										COVID-19 tribute mural built using React and Javascript. Featured in 
-										<a href="https://dl.acm.org/doi/abs/10.1145/3450623.3464646">ACM SIGGRAPH</a> and 
+										<a href="https://dl.acm.org/doi/abs/10.1145/3450623.3464646"> ACM SIGGRAPH </a> and 
 										<a href="https://competition.adesignaward.com/design.php?ID=122354"> A’ Design Award </a>
 									</time>
 								</header>
