@@ -14,6 +14,20 @@ function Projects(){
 						<div class="mini-posts">
 							<article class="mini-post">
 								<header>
+									<h3>Gender Classification and Bias Mitigation in Facial Images</h3>
+									<time>
+									Gender classification algorithms have important applications in many domains today such as demographic research, law enforcement, as well as human-computer interaction. Recent research showed that algorithms trained on biased benchmark databases could result in algorithmic bias. However, to date, little research has been carried out on gender classification algorithms' bias towards gender minorities subgroups, such as the LGBTQ and the non-binary population, who have distinct characteristics in gender expression. Featured in 
+										<a href="https://arxiv.org/abs/2007.06141"> ACM WebScience </a>
+									</time>
+								</header>
+								<a href="https://www.farewell.care/?lang=en" class="image">
+									<img src="images/facialimages.png" alt="" />
+								</a>
+								<div className="description">
+								</div>
+							</article>
+							<article class="mini-post">
+								<header>
 									<h3>Unfinished Farewell</h3>
 									<time>
 										COVID-19 tribute mural built using React and Javascript. Featured in 
@@ -44,7 +58,7 @@ function Projects(){
 								<header>
 									<h3>Restaurant Recommendations</h3>
 									<time> 
-										A restaurant recommendation system built using publicly available Yelp data.
+										A restaurant recommender system built using publicly available Yelp data.
 									</time>
 								</header>
 								<a href="https://trendysloth.github.io/yelp-restaurant-recommender/" class="image"><img src="images/recommendations.png" alt="" /></a>
