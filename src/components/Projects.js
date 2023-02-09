@@ -67,25 +67,26 @@ function Projects(){
 								<header>
 									<h3>Imrobs Adventure</h3>
 									<time> 
-										Hades Style solo-protagonist game with top-down 3d view.
+										Hades style solo-protagonist game with top-down 3d view.
 									</time>
 								</header>
 								<a href="https://www.youtube.com/watch?v=aNfENAoxpvI" class="image"><img src="images/ImrobsAdventure.png" alt="" /></a>
 							</article>
 
-							{/* <article class="mini-post">
+							<article class="mini-post">
 								<header>
-									<h3>AR/VR Podcast</h3>
+									<h3>NeRF applied to satellite imagery for surface reconstruction</h3>
 									<time>
-										AR/VR Podcast takes the audience through a journey from the past to the present in highlights in AR/ VR technology through data visualization
+										We present Sat-NeRF, a modified implementation of the recently introduced Shadow Neural Radiance Field (S-NeRF) model. This method is able to synthesize novel views 
+										from a sparse set of satellite images of a scene, while accounting for the variation in lighting present in the pictures.
 									</time>
 								</header>
-								<a href="https://player.vimeo.com/video/210814647" class="image">
-									<img src="images/beach.png" alt="" />
+								<a href="https://drive.google.com/file/d/1kE5qyf0_n4TPpFGmk7sK1TVYKWBmqrZP/view" class="image">
+									<img src="images/snerf.png" alt="" />
 								</a>
 								<div className="description">
 								</div>
-							</article> */}
+							</article>
 						<Footer />
 						</div>
 					</section>
