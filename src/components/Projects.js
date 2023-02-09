@@ -70,7 +70,9 @@ function Projects(){
 										Hades style solo-protagonist game with top-down 3d view.
 									</time>
 								</header>
-								<a href="https://www.youtube.com/watch?v=aNfENAoxpvI" class="image"><img src="images/ImrobsAdventure.png" alt="" /></a>
+								<a href="https://www.youtube.com/watch?v=aNfENAoxpvI" class="image">
+									<img src="images/ImrobsAdventure.png" alt="" />
+								</a>
 							</article>
 							<article class="mini-post">
 								<header>
@@ -83,8 +85,6 @@ function Projects(){
 								<a href="https://drive.google.com/file/d/1kE5qyf0_n4TPpFGmk7sK1TVYKWBmqrZP/view" class="image">
 									<img src="images/snerf.jpeg" alt="" />
 								</a>
-								<div className="description">
-								</div>
 							</article>
 						<Footer />
 						</div>
