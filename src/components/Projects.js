@@ -83,7 +83,7 @@ function Projects(){
 									</time>
 								</header>
 								<a href="https://drive.google.com/file/d/1kE5qyf0_n4TPpFGmk7sK1TVYKWBmqrZP/view" class="image">
-									<img src="images/snerf.jpeg" alt="" />
+									<img src="images/snerf.png" alt="" />
 								</a>
 							</article>
 						<Footer />
