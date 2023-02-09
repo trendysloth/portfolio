@@ -20,7 +20,7 @@ function Projects(){
 										<a href="https://arxiv.org/abs/2007.06141"> ACM WebScience </a>
 									</time>
 								</header>
-								<a href="https://www.farewell.care/?lang=en" class="image">
+								<a href="https://arxiv.org/abs/2007.06141" class="image">
 									<img src="images/facialimages.png" alt="" />
 								</a>
 								<div className="description">
