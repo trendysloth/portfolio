@@ -113,7 +113,7 @@ function Projects(){
 									Without computers, how do we make cool architecture?
 
 									We can't live without computers now. Neither have we ever been able to live without architecture.
-									I love both subjects and they are important parts of my life.
+									I love both subjects and they are equally important parts of my life.
 								</time>
 								</header>
 							</article>
