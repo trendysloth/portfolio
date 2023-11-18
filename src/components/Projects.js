@@ -98,11 +98,13 @@ function Projects(){
 
 									In architecture school, my interest in computer science gradually grew, I was drawn to various design and parametric softwares. Finally, one year I took a CS course that taught me the k-means clustering algorithm. 
 									Somehow I was immediately hooked about how simple and beautiful k-means is. Yes, I want to learn more about computers ... 
-
+								</time>
+								<time>
 									And the rest is the history. I could write another five pages here about my CS journey in grad school. But one thing that I resonated with the most is the Antidisciplinary approach brought up by the MIT media lab.
 									An antidisciplinary project isn't a sum of a bunch of disciplines but something entirely new - the word defies easy definition. It is someone or something that doesn't fit within traditional academic discipline-a field of study with its own particular words, frameworks, and methods.
-
-									So why are we so dogmatic about what we studied in college? The world is becoming increasingly interdisciplinary these days, why can we each adopt our own anti-discinplinary approach?
+								</time>
+								<time>
+									So why are we so dogmatic about what we studied in college? The world is becoming increasingly interdisciplinary these days, why can't we each adopt our own anti-discinplinary approach to our own life?
 
 									Computers are fasincating... Be it LOGO sea turtle, Be it Red Dead Redemption, Be it Neural Networks, Be it Rhinoceros. 
 									Architecture is also fasincating... Be it I.M.Pei, Gothic churches, Bernini, Borromini. 
