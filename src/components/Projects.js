@@ -74,49 +74,6 @@ function Projects(){
 									<img src="images/ImrobsAdventure.png" alt="" />
 								</a>
 							</article>
-							<article class="mini-post">
-								<header>
-									<h3>NeRF applied to satellite imagery for surface reconstruction</h3>
-									<time>
-										We present Sat-NeRF, a modified implementation of the recently introduced Shadow Neural Radiance Field (S-NeRF) model. This method is able to synthesize novel views 
-										from a sparse set of satellite images of a scene, while accounting for the variation in lighting present in the pictures.
-									</time>
-								</header>
-								<a href="https://drive.google.com/file/d/1kE5qyf0_n4TPpFGmk7sK1TVYKWBmqrZP/view" class="image">
-									<img src="images/snerf.png" alt="" />
-								</a>
-							</article>
-							<article class="mini-post">
-								<header>
-									<h3>Why did I become a software engineer</h3>
-								<time>
-								
-									I got asked this question so many times at job interviews or sometimes even when I meet a new person. You are an architecture major and why are you a software engineer now? 
-
-									My interest in computation started at an early age when I was in elementary school playing with the LOGO sea turtle drawing software in my computer classes. I always find computers interesting but somehow I 
-									never thought about majoring in computer science in college.
-
-									In architecture school, my interest in computer science gradually grew, I was drawn to various design and parametric softwares. Finally, one year I took a CS course that taught me the k-means clustering algorithm. 
-									Somehow I was immediately hooked about how simple and beautiful k-means is. Yes, I want to learn more about computers ... 
-								</time>
-								<time>
-									And the rest is the history. I could write another five pages here about my CS journey in grad school. But one thing that I resonated with the most is the Antidisciplinary approach brought up by the MIT media lab.
-									An antidisciplinary project isn't a sum of a bunch of disciplines but something entirely new - the word defies easy definition. It is someone or something that doesn't fit within traditional academic discipline-a field of study with its own particular words, frameworks, and methods.
-								</time>
-								<time>
-									So why are we so dogmatic about what we studied in college? The world is becoming increasingly interdisciplinary these days, why can't we each adopt our own anti-discinplinary approach to our own life?
-
-									Computers are fasincating... Be it LOGO sea turtle, Be it Red Dead Redemption, Be it Neural Networks, Be it Rhinoceros. 
-									Architecture is also fasincating... Be it I.M.Pei, Gothic churches, Bernini, Borromini. 
-									
-									Without architecture, where do we go play with our computers?
-									Without computers, how do we make cool architecture?
-
-									We can't live without computers now. Neither have we ever been able to live without architecture.
-									I love both subjects and they are equally important parts of my life.
-								</time>
-								</header>
-							</article>
 						<Footer />
 						</div>
 					</section>
