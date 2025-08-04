@@ -22,7 +22,7 @@ function Sidebar(){
 						<section class="blurb">
 							<h2>About</h2>
 							<p> 
-								I'm a software engineer with major interests in machine learning and interdisciplinary work. In 2025, I founded <a href="https://trendysloth.github.io/atelier-wuf-wuf/">Atelier wuf-wuf</a> to continue to pursue my interest in design and beyond.
+								I'm a software engineer with major interests in machine learning and interdisciplinary work. In 2025, I founded <a href="https://trendysloth.github.io/atelier-wuf-wuf/">Atelier wuf-wuf</a> to continue pursuing my interest in design and beyond.
 							</p>
 						</section>
 
